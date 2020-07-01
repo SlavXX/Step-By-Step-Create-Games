@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hungry Snake Game", "SnakeGame\SnakeGame\Hungry Snake Game.csproj", "{D89D258A-4D96-45F6-A0B4-9B0C1581130B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleBreakerGame", "BubbleBreakerGame\BubbleBreakerGame\BubbleBreakerGame.csproj", "{1B5BD652-55FA-4F75-8E0D-1903801EB88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89D258A-4D96-45F6-A0B4-9B0C1581130B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89D258A-4D96-45F6-A0B4-9B0C1581130B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89D258A-4D96-45F6-A0B4-9B0C1581130B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89D258A-4D96-45F6-A0B4-9B0C1581130B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B5BD652-55FA-4F75-8E0D-1903801EB88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5BD652-55FA-4F75-8E0D-1903801EB88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5BD652-55FA-4F75-8E0D-1903801EB88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5BD652-55FA-4F75-8E0D-1903801EB88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A64E7A-FD4F-4CDF-B489-0CD5BA5DE3A6}
+	EndGlobalSection
+EndGlobal
